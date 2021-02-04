@@ -1,0 +1,23 @@
+{
+  "name": "rockspockslizzors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielChristine/rockspockslizzors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielChristine/rockspockslizzors/issues"
+  },
+  "homepage": "https://github.com/DanielChristine/rockspockslizzors#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
